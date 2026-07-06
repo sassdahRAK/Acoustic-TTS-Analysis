@@ -140,3 +140,29 @@ Answer Research Questions
           ▼
 Write Report
 ```
+
+### Environment
+```Python 3.14.0```
+
+### Installation dependencies
+* window
+```bash
+pip install -r requirements.txt
+```
+
+* mac/linux
+```bash
+pip3 install -r requirements.txt
+```
+
+### Create virtual environment
+```bash
+python -m venv venv
+```
+
+### Activate
+```bash
+source venv/bin/activate
+```
+
+
