@@ -24,6 +24,7 @@ The goal is to identify which acoustic characteristics make synthetic speech sou
 * Python
 * Pandas
 * NumPy
+* sqlite3
 * Librosa
 * Matplotlib
 * Jupyter Notebook
