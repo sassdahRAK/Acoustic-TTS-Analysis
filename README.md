@@ -166,4 +166,6 @@ python -m venv venv
 source venv/bin/activate
 ```
 
+### Referrence 
+McFee, B., et al. librosa: Audio and Music Signal Analysis in Python: [Click Here](https://proceedings.scipy.org/articles/Majora-7b98e3ed-003.pdf)
 
